@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+#root {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+  color: #333333;
+}
+
+body{
+
+  background-Size: 39%;
+  background-repeat: repeat;
+  background-position: center;
+  
+}
