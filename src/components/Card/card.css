@@ -7,7 +7,7 @@
     border-radius: 10px;
     overflow: hidden;
     padding: 10px;
-    background: url(./src/images/fondo.jpg );
+    background: url(/fondo.jpg );
     /* background: linear-gradient(180deg, #4e53e672 10%, #E0EAD6 40%, #E0EAD6 60%, #8d90ed72 90%, #4e53e672 100%);
  */ } 
 
