@@ -1,4 +1,4 @@
-import Estrella from "./estella";
+import Estrella from "./Estella";
 import "./card.css";
 
 export default function Card({ datos }) {
